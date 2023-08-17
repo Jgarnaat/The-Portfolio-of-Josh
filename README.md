@@ -27,4 +27,4 @@ The website is pretty straightforward.
 ## Link to deployed website
 ## Credits
 
-The avatar was made using the League of legends Avatar creator. all rights reserved for riotgames
+The avatar was made using the League of legends Avatar creator. all rights reserved for riotgames.com

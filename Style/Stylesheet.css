@@ -51,7 +51,7 @@
     .main-nav{
         text-align: center;
         position: sticky;
-        top: 94px;
+        top: 128px;
         bottom:0;
     }
     nav{
@@ -127,7 +127,7 @@
             font-size: 1.5em;
             padding: 1rem;
             text-align: center;
-            height: 300px;
+            height: 350px;
             flex-grow: 1;
         }
             .flex-item a{
