@@ -19,10 +19,10 @@ The website is pretty straightforward.
 <br>For projects 2-3 I used placeholder links and images as I do not have anything else to showcase as of yet and I didn't feel right using another project for the placeholder as this is my portfolio
 
 ## Screenshots
-![Alt text](<Screenshot 2023-08-17 151506.png>)
+![screen shot showing the projects](/Assests/Screenshot%202023-08-17%20151412.png)
 
 
-![Alt text](<Screenshot 2023-08-17 151412.png>)
+![screen shot showing main background](/Assests/Screenshot%202023-08-17%20151506.png)
 
 ## Link to deployed website
 ## Credits
