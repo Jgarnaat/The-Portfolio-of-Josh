@@ -1,4 +1,4 @@
-# <Josh's Portfolio>
+# Josh's Portfolio
 
 ## Description
 
